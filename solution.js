@@ -16,3 +16,8 @@ decipherThis = (str) => {
 
     } return emp.slice(0, -1);
 }
+
+console.log(duplicateEncode('din'))
+console.log(duplicateEncode('din'))
+console.log(duplicateEncode('din'))
+console.log(duplicateEncode('din'))
